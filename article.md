@@ -21,6 +21,9 @@ Date: today
 * [Chenlin,Equivalence classes and canonical forms for two-qutrit entangled states of rank four having positive partial transpose ](https://www.dropbox.com/s/gj4cyg5srzy0ndu/Chenlin_2012_Equivalence%20classes%20and%20canonical%20forms%20for%20two-qutrit.pdf?dl=0)
   * waiting
   * two qutrit
+
+* [Chenlin 2012 ,Qubit-qudit states with PPT](https://www.dropbox.com/s/o3e9absshpi5wfw/Chenlin_2012_QubitQuditPPTPhysRevA.pdf?dl=0)
+  * waiting to be read
   
 ## multi-partite
 
